@@ -4,3 +4,7 @@
 You can learn some of basics of pygmae like moving and image etc and crash handling 
 İ hope you find it usefull
 thanks
+
+
+https://user-images.githubusercontent.com/80206446/124303416-18dc3380-db6b-11eb-86c1-8f2ed60b72bf.mp4
+
