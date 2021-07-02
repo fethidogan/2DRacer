@@ -4,10 +4,13 @@
 You can learn some of basics of pygmae like moving and image etc and crash handling 
 Game Play in Video
 You can also follow me on 
+
 https://www.twitter.com/fethicod
 
 https://www.instagram.com/fethicod
-İ hope you find it usefull
+
+I hope you find it usefull
+
 thanks
 
 
