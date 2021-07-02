@@ -1,7 +1,7 @@
 # 2DRacer
 2D Racer with realistic car sound
 
-You can learn some of basics of pygmae like moving an image, image uploading, crash handling etc 
+You can learn some of basics of Pygame like moving an image, image uploading, crash handling etc 
 
 Game Play in Video
 
