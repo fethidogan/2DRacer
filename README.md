@@ -7,10 +7,6 @@ Game Play in Video
 
 You can also follow me on 
 
-https://www.twitter.com/fethicod
-
-https://www.instagram.com/fethicod
-
 I hope you find it usefull
 
 thanks
